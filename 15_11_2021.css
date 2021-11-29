@@ -30,3 +30,11 @@ p.centered {
 	text-align: center;
 	width: 50%;
 }
+
+h1 {
+	text-align: center;
+	border: thick solid red;
+	text-decoration: none;
+	padding: 1ex;
+	width: 50%;
+}
